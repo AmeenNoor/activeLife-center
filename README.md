@@ -6,14 +6,16 @@ Ameen Noor
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Author](#author)
-- [User Experience (UX)](#user-experience-ux)
-- [Design](#design)
-- [Technologies Used](#technologies-used)
-- [Deployment](#deployment)
-- [Testing](#testing)
-- [Credits](#credits)
+- [ActiveLife Center](#activelife-center)
+  - [Author](#author)
+  - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
+  - [User Experience (UX)](#user-experience-ux)
+  - [Design](#design)
+  - [Technologies Used](#technologies-used)
+  - [Deployment](#deployment)
+  - [Testing](#testing)
+  - [Credits](#credits)
 
 
 
