@@ -17,7 +17,6 @@ Ameen Noor
       - [Desktop](#desktop)
       - [Tablet](#tablet)
       - [Mobile](#mobile)
-  - [Design](#design)
   - [Technologies Used](#technologies-used)
   - [Deployment](#deployment)
   - [Testing](#testing)
@@ -37,9 +36,9 @@ Ameen Noor
 
 #### Mobile
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200" style="margin-right: 10px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200" style="margin-right: 10px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200">
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200" style="margin-right: 50px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200" style="margin-right: 50px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200">
 </div>
-## Design
+
 
 ## Technologies Used
 
