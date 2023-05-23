@@ -33,7 +33,7 @@ Ameen Noor
 
 #### Tablet
 
-<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="200"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 2" width="200"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 3" width="200">
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="200" style="padding-right: 10px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 2" width="200" style="padding-right: 10px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 3" width="200" style="padding-right: 10px">
 
 #### Mobile
 
