@@ -35,9 +35,9 @@ Ameen Noor
 <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 2" width="250"> &nbsp; <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 3" width="250">
 
 #### Mobile
-<div style="display: flex; justify-content: space-between;">
-<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200" style="margin-right: 50px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200" style="margin-right: 50px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200">
-</div>
+
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200">
+
 
 
 ## Technologies Used
