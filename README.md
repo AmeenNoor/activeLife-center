@@ -33,11 +33,11 @@ Ameen Noor
 
 #### Tablet
 
-<img src="../activeLife-center/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="20%" height="100%"> <img src="../activeLife-center/assets/wireframes/TabletPage2.png" alt="Tablet 2" width="20%" height="100%"> <img src="../activeLife-center/assets/wireframes/TabletPage3.png" alt="Tablet 3" width="20%">
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/TabletPage1.png" alt="Tablet 3" width="270px" height="270px">
 
 #### Mobile
 
-<img src="../activeLife-center/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="20%" height="100%"> <img src="../activeLife-center/assets/wireframes/MobilePhonePage2.png" alt="Mobile 2" width="20%" height="100%"> <img src="../activeLife-center/assets/wireframes/MobilePhonePage3.png" alt="Mobile 3" width="20%">
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="270px" height="270px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="270px" height="270px">
 
 ## Design
 
