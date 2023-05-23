@@ -37,7 +37,7 @@ Ameen Noor
 
 #### Mobile
 
-<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200">
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200" style="margin-right: 10px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200" style="margin-right: 10px;"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200" style="margin-right: 10px;">
 
 ## Design
 
