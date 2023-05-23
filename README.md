@@ -29,7 +29,7 @@ Ameen Noor
 
 #### Desktop
 
-<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/HomePage.png" alt="Desktop 1" width="400px" height="400px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/ClassesPage.png" alt="Desktop 2" width="400px" height="400px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/ContactUsPage.png" alt="Desktop 3" width="400px" height="400px">
+<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/HomePage.png" alt="Desktop 1" width="300px" height="300px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/ClassesPage.png" alt="Desktop 2" width="300px" height="300px"> <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/ContactUsPage.png" alt="Desktop 3" width="300px" height="300px">
 
 #### Tablet
 
