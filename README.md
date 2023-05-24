@@ -47,20 +47,23 @@ Ameen Noor
 - Git
 
 ## Deployment
-1. Click on Setting button
+˘To deploy the project from GitHub, follow the steps below:
+
+1. Click on the "Settings" tab located near the top-right corner of the repository page (see screenshot below):
 
 ![Screenshot 2023-05-25 at 00 28 16](https://github.com/AmeenNoor/activeLife-center/assets/19653847/a3bdaea5-7775-41f6-8743-55e2f40c3816)
 
 
-2. Click page on the left menu
+2. Scroll down the settings page and click "Pages", on the left side (see screenshot below):
 
 ![Screenshot 2023-05-25 at 00 28 47](https://github.com/AmeenNoor/activeLife-center/assets/19653847/ba4387ce-b0b5-4d9b-9d9f-06d114a3afb8)
 
 
-3. in the branches section select main
+3. In the "Source" dropdown menu, select "main" and click "Save" (see screenshot below):
 
 ![Screenshot 2023-05-25 at 00 29 44](https://github.com/AmeenNoor/activeLife-center/assets/19653847/1054a65c-cfea-4a1b-93ed-5566a540e5f5)
 
+4. Scroll back up to the "GitHub Pages" section, and you will find a URL . (Note: It may take a few moments for GitHub Pages to build and deploy the project.) (see screenshot below):
 
 
 
