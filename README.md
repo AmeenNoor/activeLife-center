@@ -47,6 +47,19 @@ Ameen Noor
 - Git
 
 ## Deployment
+1. Click on Setting button
+
+![image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/2bdf064e-6a27-43cf-b7fa-efa124d7fbd7)
+
+2. Click page on the left menu
+
+![image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4729ed84-fc3b-49ba-8b75-9938355cd4d0)
+
+3. in the branches section select main
+
+![image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e9a1f405-5e5e-493a-986e-570bc7f94952)
+
+
 
 ## Testing
 
