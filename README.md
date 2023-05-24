@@ -49,15 +49,18 @@ Ameen Noor
 ## Deployment
 1. Click on Setting button
 
-![image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/2bdf064e-6a27-43cf-b7fa-efa124d7fbd7)
+![Screenshot 2023-05-25 at 00 28 16](https://github.com/AmeenNoor/activeLife-center/assets/19653847/a3bdaea5-7775-41f6-8743-55e2f40c3816)
+
 
 2. Click page on the left menu
 
-![image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4729ed84-fc3b-49ba-8b75-9938355cd4d0)
+![Screenshot 2023-05-25 at 00 28 47](https://github.com/AmeenNoor/activeLife-center/assets/19653847/ba4387ce-b0b5-4d9b-9d9f-06d114a3afb8)
+
 
 3. in the branches section select main
 
-![image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e9a1f405-5e5e-493a-986e-570bc7f94952)
+![Screenshot 2023-05-25 at 00 29 44](https://github.com/AmeenNoor/activeLife-center/assets/19653847/1054a65c-cfea-4a1b-93ed-5566a540e5f5)
+
 
 
 
