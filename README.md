@@ -1,13 +1,20 @@
 # ActiveBeat Center
 
-![am-i-responsive](https://github.com/AmeenNoor/activeLife-center/assets/19653847/83c8bde3-e2d3-47e3-a17b-fdabb551591f)
-
-
 ## Author
 
 Ameen Noor
 
 ## Introduction
+
+ActiveBeat Center is a fitness facility located in Dublin. With a range of classes and activities like Crossfit, yoga, salsa dance, Brazilian Jiu Jitsu, Zumba, Capoeira, and Thai Boxing. The target users of the website are individuals who are interested in active and healthy lifestyle. The website provides information about classes, schedules and memberships.  The website is designed to be responsive, ensuring access across all platforms for users interested in joining this inclusive fitness community.
+
+
+![am-i-responsive](https://github.com/AmeenNoor/activeLife-center/assets/19653847/83c8bde3-e2d3-47e3-a17b-fdabb551591f)
+
+[Click here to visit the website](https://ameennoor.github.io/activeLife-center/)
+
+
+
 
 ## Table of Contents
 
