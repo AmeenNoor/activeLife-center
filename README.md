@@ -1,5 +1,8 @@
 # ActiveBeat Center
 
+![am-i-responsive](https://github.com/AmeenNoor/activeLife-center/assets/19653847/83c8bde3-e2d3-47e3-a17b-fdabb551591f)
+
+
 ## Author
 
 Ameen Noor
