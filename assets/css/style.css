@@ -1,0 +1,648 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;800&family=Rye&display=swap');
+
+/* Remove default margins,
+padding and borders */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 300;
+    color: #141850;
+    width: 90%;
+    margin: 20px auto;
+    box-shadow: 0 0 100px 0 #fae5df, 0 0 100px 0 #f5cac2;
+}
+
+/* heading and logo */
+
+h1 {
+    font-family: 'Rye', cursive;
+    letter-spacing: 2px;
+    color: #141850;
+}
+
+h2,
+h3,
+h4 {
+    font-weight: 800;
+}
+
+#logo {
+    float: left;
+    font-size: 230%;
+    margin-left: 30px;
+}
+
+span {
+    color: #ed7966;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#menu,
+#logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #ed7966;
+}
+
+#menu .active {
+    color: #ed7966;
+}
+
+/* fitness image section */
+
+#fitness-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#fitness-image {
+    background: url('../images/fitness.jpeg') no-repeat center center;
+    width: 100%;
+    height: 600px;
+}
+
+/* about us section */
+
+#about-us {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#about-us h2 {
+    margin: 20px 0;
+}
+
+#about-us p {
+    font-size: 22px;
+    text-align: justify;
+}
+
+/* membership section */
+
+#membership {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+
+#membership>h2 {
+    margin-bottom: 20px;
+}
+
+.membership-container {
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.block-membership {
+    width: 30%;
+    height: auto;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color: #ed7966;
+    color: white;
+    padding: 20px 0;
+}
+
+.block-membership h2,
+.block-membership p,
+.block-membership h3 {
+    padding: 15px 15px;
+}
+
+
+/* #membership div {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    border: 5px solid white;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color: #ed7966;
+    color: white;
+
+}
+
+#membership div p {
+    padding: 0 20px;
+}
+
+#membership h2,
+#membership h3 {
+    margin: 30px;
+} */
+
+/* social media section */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 2%;
+    color: #141850;
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------- Classes Page -------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+
+#classes-contianer {
+    margin: 0 auto;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+
+#classes-contianer>h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#classes-contianer>p {
+    font-size: 22px;
+    text-align: justify;
+    margin-bottom: 100px;
+}
+
+.classes-row {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cell {
+    width: 30%;
+    height: 400px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.cell img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 0 20px 0 #ed7966;
+
+}
+
+.cell h3,
+.cell h4 {
+    margin: 15px 0;
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------ Contact us Page -----------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+
+#contact-container {
+    margin: 0 auto;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+#contact-container>h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.info-container {
+    margin: 0 auto;
+    display: flex;
+
+}
+
+.contact-form,
+.contact-info {
+    width: 35%;
+    margin: 10px auto;
+    padding: 40px;
+    box-shadow: 0 0 20px 0 #ed7966;
+    border-bottom-right-radius: 90px;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}
+
+.contact-map {
+    border: 2px solid #ed7966;
+    margin-bottom: 20px;
+}
+
+.contact-information {
+    background-color: #ed7966;
+    color: white;
+    padding: 30px 0 30px 60px;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
+.contact-information h3,
+.contact-information p {
+    padding: 5px 0;
+}
+
+.contact-information h3 {
+    color: #141850;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+#name,
+#email,
+#phone,
+#address,
+#gender,
+#day,
+#message,
+#time,
+#center-class {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #141850;
+    border-radius: 4px;
+}
+
+.button {
+    text-align: center;
+    font-size: 100%;
+    background-color: #f16c6b;
+    color: #fafafa;
+    display: block;
+    margin: 40px auto;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+}
+
+.button:hover {
+    background-color: #fafafa;
+    color: #f16c6b;
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------- Booking page -------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+#booking-container {
+    margin: 0 auto;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+
+#booking-container h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.form-container {
+    margin-bottom: 40px;
+}
+
+#booking-container form {
+    width: 40%;
+    margin: 0 auto;
+    padding: 40px;
+    box-shadow: 0 0 20px 0 #ed7966;
+    border-bottom-right-radius: 90px;
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------------------ Thank you page ------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+#thank-container {
+    margin: 0 auto;
+    padding: 40px;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#thank-container p {
+    font-size: 30px;
+    margin: 200px;
+    border: 1px solid white;
+    text-align: center;
+    padding: 40px;
+    box-shadow: 0 0 50px 0 #ed7966;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color: #ed7966;
+    color: white;
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/* Media queries for larger to medium screens size from 1200px wide and down  */
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+@media screen and (max-width: 1200px) {
+    #about-us {
+        width: 80%;
+    }
+
+    #membership {
+        width: 80%;
+    }
+
+    .membership-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .block-membership {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .cell {
+        margin-bottom: 60px;
+    }
+
+    .cell img {
+        width: 200px;
+        height: 200px;
+
+    }
+
+    #booking-container,
+    #contact-container {
+        width: 100%;
+    }
+
+
+
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*-------------- For medium screen sizes from 950px wide and down ------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+@media screen and (max-width: 950px) {
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    header>a {
+        margin: 0 auto;
+    }
+
+    #logo {
+        font-size: 200%;
+        margin-left: 0;
+    }
+
+    nav {
+        margin: 0 auto;
+    }
+
+    #menu {
+        font-size: 110%;
+        letter-spacing: 0;
+        font-weight: 700;
+    }
+
+    #menu li {
+        margin-right: 10px;
+    }
+
+    #fitness-outer {
+        height: auto;
+    }
+
+    #fitness-image {
+        height: 400px;
+        background-size: cover;
+    }
+
+    #about-us p,
+    #classes-contianer>p {
+        font-size: 20px;
+    }
+
+    .cell {
+        width: 50%;
+        margin-bottom: 10px;
+    }
+
+    .cell img {
+        width: 170px;
+        height: 170px;
+
+    }
+
+    .info-container {
+        display: block;
+    }
+
+    .contact-form,
+    .contact-info,
+    #booking-container form {
+        width: 80%;
+        border-bottom-right-radius: 0;
+    }
+
+    .thankyou {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #thank-container p {
+        font-size: 30px;
+        margin: 300px auto;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+    }
+
+}
+
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+/*------------------ For small screen sizes 600px and down -------------------*/
+/*----------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------*/
+
+@media screen and (max-width: 600px) {
+    #logo {
+        font-size: 130%;
+    }
+
+    #menu {
+        font-size: 90%;
+    }
+
+    #fitness-outer {
+        height: auto;
+    }
+
+    #fitness-image {
+        height: 300px;
+        background-size: cover;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 140%;
+    }
+
+    #about-us p,
+    .block-membership p,
+    #classes-contianer>p,
+    #thank-container p {
+        font-size: 15px;
+    }
+
+    block-membership h2,
+    .block-membership p,
+    .block-membership h3 {
+        padding: 8px 15px;
+    }
+
+    #membership {
+        width: 100%;
+    }
+
+    .block-membership {
+        height: auto;
+    }
+
+    #contact-container {
+        width: 100%;
+    }
+
+    .contact-form,
+    .contact-info {
+        width: 80%;
+        margin: 0 auto;
+        box-shadow: 0 0 0 0 white;
+        border-bottom-right-radius: 0;
+    }
+
+    iframe {
+        height: 250px;
+    }
+
+    .contact-information {
+        padding: 30px;
+        border-top-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    .form-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #booking-container form {
+        width: 100%;
+        padding: 0;
+        box-shadow: 0 0 0 0 white;
+        border-bottom-right-radius: 0;
+    }
+
+    .classes-row {
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .cell {
+        width: 80%;
+    }
+
+    .cell img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .thankyou {
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    #thank-container p {
+        margin: 50px auto;
+        border-top-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+}
