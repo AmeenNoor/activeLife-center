@@ -1,4 +1,4 @@
-# ActiveBeat Center
+<h1 align="center">ActiveBeat Center</h1>
 
 ## Author
 
@@ -24,24 +24,26 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
   - [Table of Contents](#table-of-contents)
   - [User Experience (UX)](#user-experience-ux)
     - [User storis](#user-storis)
-      - [Desktop](#desktop)
-      - [Tablet](#tablet)
-      - [Mobile](#mobile)
     - [Design](#design)
       - [Colors](#colors)
       - [Images](#images)
-      - [Icons](#icons)
+      - [Typography](#typography)
     - [Wireframes](#wireframes)
       - [Desktop](#desktop)
       - [Tablet](#tablet)
       - [Mobile](#mobile)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Future Features](#future-features)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries and Programs Used](#frameworks-libraries-programs-used)
   - [Deployment](#deployment)
   - [Testing](#testing)
     - [Testing User Stories](#testing-user-stories)
-    - [Validation Testing](#validation-testing)
+    - [Validator Testing](#validator-testing)
+      - [HTML](#html)
+      - [CSS](#css)
     - [Manual Testing](#manual-testing)
     - [Accessibility](#accessibility)
   - [Credits](#credits)
@@ -83,7 +85,9 @@ The website's color scheme uses soft and warm tones that make people feel calm a
 
 Images are chosen for the website's home and classes pages to enhance visual appeal and convey information. fitness image in the header section represents the core theme of the website, showcasing a visually appealing depiction of fitness and exercise. This image helps to immediately convey the purpose and focus of the fitness center. On the classes page, each class is represented by an image that reflects its nature and atmosphere. For example, yoga is depicted with a peaceful image, while martial arts classes have action-oriented images. The images aim to attract visitors, evoke emotions, and provide a preview of the classes offered.
 
-#### Icons
+#### Typography
+
+The 'Rye' font was chosen for its decorative and stylish appearance, adding visual interest to specific elements. 'Nanum Myeongjo' was selected for its readability and versatility, ensuring clear and legible body text. The font choices aim to balance aesthetics and usability, aligning with the website's design goals and target audience.
 
 ### Wireframes
 
@@ -100,6 +104,36 @@ Images are chosen for the website's home and classes pages to enhance visual app
 <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 1" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 2" width="200"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AmeenNoor/activeLife-center/blob/main/assets/wireframes/MobilePhonePage1.png" alt="Mobile 3" width="200">
 
 
+## Features
+### Existing Features
+
+1. Navigation Bar: The website includes a navigation bar at the top, allowing users to easily navigate between different sections such as "Contact Us," "Classes," and "Home."
+
+![Screenshot 2023-06-09 at 04 13 13](https://github.com/AmeenNoor/activeLife-center/assets/19653847/b8bb16e7-6b55-48b3-8d73-51f05848d632)
+
+2. Contact Form: The "Contact Us" section provides a contact form where users can input their name, email, phone number, and message to get in touch with ActiveBeat Center.
+
+![Screenshot 2023-06-09 at 04 17 20](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c6a6692a-ed59-44eb-bff8-7dc3d41736ce)
+
+
+3. Google Maps Integration: The website incorporates a Google Maps iframe, providing a map view of the ActiveBeat Center's location.
+
+![Screenshot 2023-06-09 at 04 20 13](https://github.com/AmeenNoor/activeLife-center/assets/19653847/310a489b-090b-419f-9a39-6830925cba3c)
+
+4. Contact Information: The "Contact Us" section also displays the center's address, phone number, and email address, making it easy for users to reach out through different channels.
+
+![Screenshot 2023-06-09 at 04 25 25](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4d361331-b0ae-4dee-a425-a08a43138985)
+
+5. Social Media Links: The footer of the website includes links to the center's social media pages, such as Facebook, Instagram, YouTube, Twitter and TikTok, allowing users to connect and stay updated on their activities.
+
+![Screenshot 2023-06-09 at 04 28 36](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c58ca4d1-b553-49bc-b129-8eaa84e84be9)
+
+6. Responsive Design: The website appears to be designed with a responsive layout, ensuring optimal viewing and functionality across different devices and screen sizes.
+
+
+### Future Features
+
+????????
 
 ## Technologies Used
 
@@ -142,7 +176,7 @@ To deploy the project from GitHub, follow the steps below:
 
 
 ## Testing
-
+????????
 ## Credits
 
 ### Code
