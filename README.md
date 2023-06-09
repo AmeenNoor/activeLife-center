@@ -141,7 +141,7 @@ The 'Rye' font was chosen for its decorative and stylish appearance, adding visu
   - HMTL
   - CSS
 
-### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries and Programs Used
   - Balsamiq:
     - Balsamiq was used to create the mockup design for the website.
   - GitHub:
