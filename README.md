@@ -37,7 +37,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Future Features](#future-features)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
-    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-programs-used)
+    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
   - [Deployment](#deployment)
   - [Testing](#testing)
     - [Testing User Stories](#testing-user-stories)
@@ -109,28 +109,50 @@ The 'Rye' font was chosen for its decorative and stylish appearance, adding visu
 
 1. Navigation Bar: The website includes a navigation bar at the top, allowing users to easily navigate between different sections such as "Contact Us," "Classes," and "Home."
 
+
+
 ![Screenshot 2023-06-09 at 04 13 13](https://github.com/AmeenNoor/activeLife-center/assets/19653847/b8bb16e7-6b55-48b3-8d73-51f05848d632)
 
+
+
 2. Contact Form: The "Contact Us" section provides a contact form where users can input their name, email, phone number, and message to get in touch with ActiveBeat Center.
+
+
 
 ![Screenshot 2023-06-09 at 04 17 20](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c6a6692a-ed59-44eb-bff8-7dc3d41736ce)
 
 
+
 3. Google Maps Integration: The website incorporates a Google Maps iframe, providing a map view of the ActiveBeat Center's location.
+
+
 
 ![Screenshot 2023-06-09 at 04 20 13](https://github.com/AmeenNoor/activeLife-center/assets/19653847/310a489b-090b-419f-9a39-6830925cba3c)
 
+
+
 4. Contact Information: The "Contact Us" section also displays the center's address, phone number, and email address, making it easy for users to reach out through different channels.
+
+
 
 ![Screenshot 2023-06-09 at 04 25 25](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4d361331-b0ae-4dee-a425-a08a43138985)
 
+
+
 5. Social Media Links: The footer of the website includes links to the center's social media pages, such as Facebook, Instagram, YouTube, Twitter and TikTok, allowing users to connect and stay updated on their activities.
+
+
 
 ![Screenshot 2023-06-09 at 04 28 36](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c58ca4d1-b553-49bc-b129-8eaa84e84be9)
 
+
+
 6. 404 page: The 404.html page effectively communicates the error of a requested page not found. It displays a warning message to inform the user about the issue and provides a clear button that links to the home page as a solution. This approach helps maintain a positive user experience by guiding users back to the main page and minimizing frustration.
 
+
+
 ![Screenshot 2023-06-10 at 03 11 38](https://github.com/AmeenNoor/activeLife-center/assets/19653847/11718481-e8ee-4028-9aca-93fe3e0cb71d)
+
 
 
 7. Responsive Design: The website appears to be designed with a responsive layout, ensuring optimal viewing and functionality across different devices and screen sizes.
