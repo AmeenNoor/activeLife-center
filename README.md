@@ -128,7 +128,7 @@ The 'Rye' font was chosen for its decorative and stylish appearance, adding visu
 
 ![Screenshot 2023-06-09 at 04 28 36](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c58ca4d1-b553-49bc-b129-8eaa84e84be9)
 
-6. The 404.html page effectively communicates the error of a requested page not found. It displays a warning message to inform the user about the issue and provides a clear button that links to the home page as a solution. This approach helps maintain a positive user experience by guiding users back to the main page and minimizing frustration.
+6. 404 page: The 404.html page effectively communicates the error of a requested page not found. It displays a warning message to inform the user about the issue and provides a clear button that links to the home page as a solution. This approach helps maintain a positive user experience by guiding users back to the main page and minimizing frustration.
 
 ![Screenshot 2023-06-10 at 03 11 38](https://github.com/AmeenNoor/activeLife-center/assets/19653847/11718481-e8ee-4028-9aca-93fe3e0cb71d)
 
