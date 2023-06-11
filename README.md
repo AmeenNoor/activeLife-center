@@ -23,6 +23,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [User Experience (UX)](#user-experience-ux)
+    - [Project Goal](#project-goal)
     - [User storis](#user-storis)
     - [Design](#design)
       - [Colors](#colors)
@@ -51,6 +52,8 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Content](#content)
     - [Media](#media)
     - [Acknowledgements](#acknowledgements)
+
+## Project Goal
 
 ## User Experience (UX)
 
