@@ -42,7 +42,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
   - [Deployment](#deployment)
   - [Testing](#testing)
     - [Testing User Stories](#testing-user-stories)
-    - [Validator Testing](#validator-testing)
+    - [Validation Testing](#validation-testing)
       - [HTML](#html)
       - [CSS](#css)
     - [Manual Testing](#manual-testing)
@@ -207,6 +207,22 @@ To deploy the project from GitHub, follow the steps below:
 
 ## Testing
 ????????
+### Validation Testing
+#### HTML
+- Classes Page:
+
+![classes-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/8923e2e2-f83b-4e13-88aa-a68926159d85)
+
+- Contact us Page:
+
+![contact-us-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9a82b5c4-edb1-4e31-b57b-1884817fecdf)
+
+
+#### CSS
+
+![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/6d532ad2-2708-4f08-9acf-4cecb1aaf7d9)
+
+
 ## Credits
 
 ### Code
