@@ -211,16 +211,17 @@ To deploy the project from GitHub, follow the steps below:
 #### HTML
 - Classes Page:
 
-![classes-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/8923e2e2-f83b-4e13-88aa-a68926159d85)
+![classes-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4ac331cd-16de-4d2a-8381-f1e819c10bcb)
+
 
 - Contact us Page:
 
-![contact-us-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9a82b5c4-edb1-4e31-b57b-1884817fecdf)
+![contact-us-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9d37fd09-60f8-4ec1-9032-7d599bf1631e)
 
 
 #### CSS
 
-![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/6d532ad2-2708-4f08-9acf-4cecb1aaf7d9)
+![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/94196dde-e41d-4b3e-aac3-613c77238799)
 
 
 ## Credits
