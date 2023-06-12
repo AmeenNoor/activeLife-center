@@ -273,6 +273,10 @@ By clicking on the social media icons, including Facebook, Instagram, YouTube, T
 ![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/94196dde-e41d-4b3e-aac3-613c77238799)
 
 ### Browser and Device Testing
+
+
+The website was tested on various browsers and devices to ensure compatibility and optimal user experience. The testing process yielded successful results for most browsers and devices, except for Safari browser. In Safari, it was observed that the navigation menu was not displayed as expected.
+
 <div align="center">
   
   | Device | Browser | OS | Screen Width |
