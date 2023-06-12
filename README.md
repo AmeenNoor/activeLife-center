@@ -48,6 +48,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Browser and Device Testing](#browser-and-device-testing)
     - [Manual Testing](#manual-testing)
     - [Accessibility](#accessibility)
+    - [Fixing Bugs](#fixing-bugs)
   - [Credits](#credits)
     - [Code](#code)
     - [Content](#content)
@@ -304,7 +305,7 @@ View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx8
 ![Screenshot 2023-06-12 at 05 13 07](https://github.com/AmeenNoor/activeLife-center/assets/19653847/0b1a4df4-64a2-4a37-975f-0eb6dc4414c8)
 
 
-
+### Fixing Bugs
 
 
 
