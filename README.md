@@ -45,6 +45,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Validation Testing](#validation-testing)
       - [HTML](#html)
       - [CSS](#css)
+    - [Browser and Device Testing](#browser-and-device-testing)
     - [Manual Testing](#manual-testing)
     - [Accessibility](#accessibility)
   - [Credits](#credits)
@@ -223,7 +224,19 @@ To deploy the project from GitHub, follow the steps below:
 
 ![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/94196dde-e41d-4b3e-aac3-613c77238799)
 
+### Browser and Device Testing
+<div align="center">
+  
+  | Device | Browser | OS | Screen Width |
+  | --------------- | --------------- | --------------- | --------------- |
+  | dev tools: iPhone SE | Chrome | iOs | 375 x 667 |
+  | dev tools: iPhone 12 | Chrome | iOs | 390 x 844 |
+  | dev tools: iPad Air | Chrome | iOs | 820 x 1180 |
+  | dev tools: Galaxy S8 | Chrome | Android | 362 x 740 |
+  | real computer: macbook pro 13 m1 | Firefox | iOs | 2560 × 1600 |
+  | real computer: macbook pro 13 m1 | Microsoft Edge | iOs | 1920 × 1080 |
 
+</div>
 ### Manual Testing
 
 View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx87X14G3iNKbtTt4qVKPlQUPKv61Ia/edit?usp=sharing&ouid=114632238804209226224&rtpof=true&sd=true)
