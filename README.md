@@ -225,11 +225,9 @@ To deploy the project from GitHub, follow the steps below:
 
 
 ### Manual Testing
-![manual-testing-image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/ec63a485-f5e2-4b23-b27a-42d9dce28343)
 
-<a href="[https://docs.google.com/spreadsheets/d/1W85h9iMh3DuUlf6qbAEOJAGxEFdf0eHEZkcWL2YOVOw/edit#gid=119546409](https://docs.google.com/spreadsheets/d/16gx87X14G3iNKbtTt4qVKPlQUPKv61Ia/edit?usp=sharing&ouid=114632238804209226224&rtpof=true&sd=true)">
-  <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/ec63a485-f5e2-4b23-b27a-42d9dce28343" alt="Description of the image">
-</a>
+
+[![manual-testing-image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9afed75d-41b2-4c80-9353-f8dc56eade8a)](https://docs.google.com/spreadsheets/d/16gx87X14G3iNKbtTt4qVKPlQUPKv61Ia/edit?usp=sharing&ouid=114632238804209226224&rtpof=true&sd=true)
 
 
 
