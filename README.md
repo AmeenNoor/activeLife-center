@@ -280,18 +280,21 @@ The code of the website was tested using the HTML & CSS Validator provided by Th
 
 The website was tested on various browsers and devices to ensure compatibility and optimal user experience. The testing process yielded successful results for most browsers and devices, except for Safari browser. In Safari, it was observed that the navigation menu was not displayed as expected. See table and screenshots below:
 
-<div align="center">
-  
+<div align="center">  
   | Device | Browser | OS | Screen Width | Status |
   | --------------- | --------------- | --------------- | --------------- | --------------- |
   | dev tools: iPhone SE | Chrome | iOs | 375 x 667 | ✔ |
   | dev tools: iPhone 12 | Chrome | iOs | 390 x 844 | ✔ |
   | dev tools: iPad Air | Chrome | iOs | 820 x 1180 | ✔ |
-  | dev tools: Galaxy S8 | Chrome | Android | 362 x 740 | ✘ |
-  | real computer: macbook pro 13 m1 | Firefox | iOs | 2560 × 1600 | ✘ |
-  | real computer: macbook pro 13 m1 | Microsoft Edge | iOs | 1920 × 1080 | ✘ |
-
+  | dev tools: Galaxy S8 | Chrome | Android | 362 x 740 | ✔ |
+  | real computer: Toshiba | Microsoft Edge | Windows 10 | 1366 × 768 | ✔ |
+  | real computer: Toshiba | Firefox | Ubuntu 22.04 | 1920 × 1080 | ✔ |
+  | real computer: macbook pro 13 m1 | Safari | iOs | 1920 × 1080 | ✘ |
+  | real mobile phone: iPhone 7 plus | Safari | iOs | 1920 × 1080 | ✘ |
 </div>
+
+#### Safari browser:
+The screenshots below showcase the website being tested on Safari browser across different devices, including a MacBook Pro M1 and an iPhone 7 Plus. During the testing phase, an issue was identified where a portion of the navigation menu appeared to float down on these devices. 
 
 ### Manual Testing
 
