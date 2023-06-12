@@ -224,6 +224,10 @@ To deploy the project from GitHub, follow the steps below:
 ![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/94196dde-e41d-4b3e-aac3-613c77238799)
 
 
+### Manual Testing
+[Manual Testing.xlsx](https://github.com/AmeenNoor/activeLife-center/files/11716835/Manual.Testing.xlsx)
+
+
 ## Credits
 
 ### Code
