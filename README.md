@@ -235,6 +235,12 @@ By clicking on the social media icons, including Facebook, Instagram, YouTube, T
 
 ### Validation Testing
 #### HTML
+
+- Home page:
+
+![index-page-test](https://github.com/AmeenNoor/activeLife-center/assets/19653847/a241a1e2-eddb-4444-bed3-c7dfc6faa537)
+
+
 - Classes Page:
 
 ![classes-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4ac331cd-16de-4d2a-8381-f1e819c10bcb)
@@ -243,6 +249,23 @@ By clicking on the social media icons, including Facebook, Instagram, YouTube, T
 - Contact us Page:
 
 ![contact-us-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9d37fd09-60f8-4ec1-9032-7d599bf1631e)
+
+
+- Bookclass Page:
+
+![bookclass-page-test](https://github.com/AmeenNoor/activeLife-center/assets/19653847/aaf747a7-f66d-4c4a-8f64-62e4fd326950)
+
+
+- Thankyou Page:
+
+![thankyou-page-test](https://github.com/AmeenNoor/activeLife-center/assets/19653847/493ecd3f-8146-47af-a2d1-6f892aa0a8aa)
+
+
+- 404 Page:
+
+![404-page-test](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c5a9d7b5-8d12-4f61-8a54-9391375bb965)
+
+
 
 
 #### CSS
