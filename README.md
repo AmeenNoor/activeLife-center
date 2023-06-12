@@ -64,15 +64,13 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
 
 2. As a user, I want to learn about ActiveBeat Center and its offerings, so I can understand if it meets my fitness needs.
 
-3. As a user, I want to view a visually appealing image related to fitness on the website, so I can get a sense of the atmosphere.
+3. As a user, I want to find information about the different membership options, so I can choose the one that suits me best.
 
-4. As a user, I want to find information about the different membership options, so I can choose the one that suits me best.
+4. As a user, I want to access the contact information of ActiveBeat Center, so I can get in touch with them if needed.
 
-5. As a user, I want to access the contact information of ActiveBeat Center, so I can get in touch with them if needed.
+5. As a user, I want to explore the different classes offered by ActiveBeat Center, so I can choose the ones that interest me.
 
-6. As a user, I want to explore the different classes offered by ActiveBeat Center, so I can choose the ones that interest me.
-
-7. As a user, I want to easily access the social media pages of ActiveBeat Center, so I can stay updated on their activities and events.
+6. As a user, I want to easily access the social media pages of ActiveBeat Center, so I can stay updated on their activities and events.
 
 
 ### Design
@@ -207,7 +205,34 @@ To deploy the project from GitHub, follow the steps below:
 
 
 ## Testing
-????????
+### Testing User Stories
+
+1. User Story: Easily Navigate Through the Website
+
+The test for the User Story "Easily Navigate Through the Website" was successfully completed. By clicking on the navigation links, such as "Home," "Classes," and "Contact Us," the corresponding pages were displayed as expected. The navigation links were functional and allowed seamless movement between different sections of the website.
+
+2. User Story: Learn About ActiveBeat Center and its Offerings
+
+By reading the content on the homepage and classes page, the services, classes, and facilities provided by ActiveBeat Center were understood. The information provided on these pages effectively communicated the offerings of ActiveBeat Center, including the different fitness programs available, class schedules, and any unique features or benefits.
+
+3. User Story: Find Information About Membership Options
+
+By navigating to the Home page, the details about the membership options, fees, and associated benefits were found. The information provided on these pages clearly outlined the various membership packages available, including pricing details, duration of membership, and any additional perks or privileges associated with each option. This allowed the user to make an informed decision and choose the membership option that best suited their needs.
+
+4. User Story: Access Contact Information of ActiveBeat Center
+
+By locating the "Contact Us" page or section, the necessary contact information, including the phone number, email address, and physical address, was found. The contact information provided was accurate and up-to-date, allowing users to easily reach out to ActiveBeat Center for any inquiries, appointments, or other communication needs.
+
+5. User Story: Explore Different Classes Offered by ActiveBeat Center
+
+By visiting the classes page, all the necessary information about each class, including schedules, descriptions, and any other relevant details, was reviewed. The class information provided was comprehensive and gave a clear understanding of the different classes offered by ActiveBeat Center. Users can now make informed decisions about which classes they would like to participate in based on their preferences, schedules, and fitness goals.
+
+6. User Story: Easily Access Social Media Pages of ActiveBeat Center
+
+By clicking on the social media icons, including Facebook, Instagram, YouTube, Twitter, and TikTok, it was confirmed that they redirected to the corresponding social media pages of ActiveBeat Center. This functionality allows users to easily access and connect with ActiveBeat Center's social media presence, enabling them to stay updated on the latest news, events, and promotions.
+
+
+
 ### Validation Testing
 #### HTML
 - Classes Page:
