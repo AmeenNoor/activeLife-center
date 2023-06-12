@@ -301,12 +301,16 @@ The screenshots below showcase the website being tested on Safari browser across
 
 ##### MacBook Pro 13"
 
-![safari-macbook-pro](https://github.com/AmeenNoor/activeLife-center/assets/19653847/6655558c-40ce-4524-b3a2-cf44c90747be)
+
+![safari-macbook-pro](https://github.com/AmeenNoor/activeLife-center/assets/19653847/b912a255-ad4e-490d-92e0-8eb23df663f9)
+
 
 
 ##### iPhone 7 Plus
 
-![safari-iphone-7-plus](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9f5c2d54-98e5-4541-8962-13b749bdfc98)
+
+![safari-iphone-7-plus](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e18408f6-8a1a-481f-92bb-8176523e4993)
+
 
 
 ### Manual Testing
