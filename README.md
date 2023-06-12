@@ -277,11 +277,11 @@ The code of the website was tested using the HTML & CSS Validator provided by Th
 ### Browser and Device Testing
 
 
-The website was tested on various browsers and devices to ensure compatibility and optimal user experience. The testing process yielded successful results for most browsers and devices, except for Safari browser. In Safari, it was observed that the navigation menu was not displayed as expected.
+The website was tested on various browsers and devices to ensure compatibility and optimal user experience. The testing process yielded successful results for most browsers and devices, except for Safari browser. In Safari, it was observed that the navigation menu was not displayed as expected. See table and screenshots below:
 
 <div align="center">
   
-  | Device | Browser | OS | Screen Width |
+  | Device | Browser | OS | Screen Width | Status |
   | --------------- | --------------- | --------------- | --------------- |
   | dev tools: iPhone SE | Chrome | iOs | 375 x 667 |
   | dev tools: iPhone 12 | Chrome | iOs | 390 x 844 |
