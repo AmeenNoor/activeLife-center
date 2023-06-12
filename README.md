@@ -231,6 +231,12 @@ View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx8
 ![manual-testing-image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/cf5d0444-9082-4ccb-a4b7-7d4479c8a8ce)
 
 
+### Accessibility
+
+![Screenshot 2023-06-12 at 05 13 07](https://github.com/AmeenNoor/activeLife-center/assets/19653847/0b1a4df4-64a2-4a37-975f-0eb6dc4414c8)
+
+
+
 
 
 
