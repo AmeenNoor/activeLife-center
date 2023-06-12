@@ -237,6 +237,7 @@ To deploy the project from GitHub, follow the steps below:
   | real computer: macbook pro 13 m1 | Microsoft Edge | iOs | 1920 × 1080 |
 
 </div>
+
 ### Manual Testing
 
 View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx87X14G3iNKbtTt4qVKPlQUPKv61Ia/edit?usp=sharing&ouid=114632238804209226224&rtpof=true&sd=true)
