@@ -227,6 +227,8 @@ To deploy the project from GitHub, follow the steps below:
 ### Manual Testing
 [Manual Testing.xlsx](https://github.com/AmeenNoor/activeLife-center/files/11716835/Manual.Testing.xlsx)
 
+![manual-testing-image](https://github.com/AmeenNoor/activeLife-center/assets/19653847/6a3ba5a4-e4c0-42f0-95a7-07805bb19afa)](https://github.com/AmeenNoor/activeLife-center/files/11716835/Manual.Testing.xlsx)
+
 
 ## Credits
 
