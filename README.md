@@ -49,6 +49,8 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Manual Testing](#manual-testing)
     - [Accessibility](#accessibility)
     - [Fixing Bugs](#fixing-bugs)
+      - [Validation Bug](#validation-bugs)
+      - [Safari Bug](#safari-bug)
   - [Credits](#credits)
     - [Code](#code)
     - [Content](#content)
@@ -327,6 +329,9 @@ View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx8
 
 ### Fixing Bugs
 
+#### Validation Bug
+
+#### Safari Bug
 
 
 ## Credits
