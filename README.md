@@ -308,9 +308,9 @@ The screenshots below showcase the website being tested on Safari browser across
 
 ##### iPhone 7 Plus
 
-<div align="cenetr">
-  ![safari-iphone-7-plus](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e18408f6-8a1a-481f-92bb-8176523e4993)
-</div>
+
+![safari-iphone-7-plus](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e18408f6-8a1a-481f-92bb-8176523e4993)
+
 
 
 ### Manual Testing
