@@ -282,13 +282,13 @@ The website was tested on various browsers and devices to ensure compatibility a
 <div align="center">
   
   | Device | Browser | OS | Screen Width | Status |
-  | --------------- | --------------- | --------------- | --------------- |
-  | dev tools: iPhone SE | Chrome | iOs | 375 x 667 |
-  | dev tools: iPhone 12 | Chrome | iOs | 390 x 844 |
-  | dev tools: iPad Air | Chrome | iOs | 820 x 1180 |
-  | dev tools: Galaxy S8 | Chrome | Android | 362 x 740 |
-  | real computer: macbook pro 13 m1 | Firefox | iOs | 2560 × 1600 |
-  | real computer: macbook pro 13 m1 | Microsoft Edge | iOs | 1920 × 1080 |
+  | --------------- | --------------- | --------------- | --------------- | --------------- |
+  | dev tools: iPhone SE | Chrome | iOs | 375 x 667 | ✔ |
+  | dev tools: iPhone 12 | Chrome | iOs | 390 x 844 | ✔ |
+  | dev tools: iPad Air | Chrome | iOs | 820 x 1180 | ✔ |
+  | dev tools: Galaxy S8 | Chrome | Android | 362 x 740 | ✘ |
+  | real computer: macbook pro 13 m1 | Firefox | iOs | 2560 × 1600 | ✘ |
+  | real computer: macbook pro 13 m1 | Microsoft Edge | iOs | 1920 × 1080 | ✘ |
 
 </div>
 
