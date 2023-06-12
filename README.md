@@ -299,6 +299,16 @@ The website was tested on various browsers and devices to ensure compatibility a
 #### Safari browser:
 The screenshots below showcase the website being tested on Safari browser across different devices, including a MacBook Pro M1 and an iPhone 7 Plus. During the testing phase, an issue was identified where a portion of the navigation menu appeared to float down on these devices. 
 
+##### MacBook Pro 13"
+
+![safari-macbook-pro](https://github.com/AmeenNoor/activeLife-center/assets/19653847/6655558c-40ce-4524-b3a2-cf44c90747be)
+
+
+##### iPhone 7 Plus
+
+![safari-iphone-7-plus](https://github.com/AmeenNoor/activeLife-center/assets/19653847/9f5c2d54-98e5-4541-8962-13b749bdfc98)
+
+
 ### Manual Testing
 
 View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx87X14G3iNKbtTt4qVKPlQUPKv61Ia/edit?usp=sharing&ouid=114632238804209226224&rtpof=true&sd=true)
