@@ -234,7 +234,7 @@ By clicking on the social media icons, including Facebook, Instagram, YouTube, T
 
 
 ### Validation Testing
-The code of the website was thoroughly tested using the HTML & CSS Validator provided by The World Wide Web Consortium (W3C).  The test results indicated that some of the HTML pages produced warning errors, while others passed without any errors. See screenshots below:
+The code of the website was tested using the HTML & CSS Validator provided by The World Wide Web Consortium (W3C).  The test results indicated that some of the HTML pages produced warning errors, while others passed without any errors. See screenshots below:
 
 #### HTML
 
