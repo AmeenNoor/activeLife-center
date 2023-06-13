@@ -360,6 +360,17 @@ The bug in the code was related to a warning raised by the HTML validator. The w
 
 #### Safari Bug
 
+The bug was, during the testing phase, an issue was identified where a portion of the navigation menu appeared to float down on these devices. As a temporary solution, the bug was fixed by removing the "Us" portion from the "Contact Us" section.
+
+MacBook Pro 13":
+
+![bug-fixed-macbook](https://github.com/AmeenNoor/activeLife-center/assets/19653847/4cf48453-f915-4a7c-a706-ac990fa34b97)
+
+
+iPhone 7 Plus:
+
+![bug-fixed-iPhone](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c4522546-5750-4406-8b63-06ff9fc6beeb)
+
 
 ## Credits
 
