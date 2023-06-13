@@ -48,6 +48,9 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
     - [Manual Testing](#manual-testing)
     - [Accessibility](#accessibility)
+      - [Accessibility Audits](#accessibility-audits)
+      - [Keyboard Navigation](#keyboard-navigation)
+      - [Chrome Vox Reader](#chrome-vox-reader)
     - [Fixing Bugs](#fixing-bugs)
       - [Validation Bug](#validation-bugs)
       - [Safari Bug](#safari-bug)
@@ -310,9 +313,9 @@ The screenshots below showcase the website being tested on Safari browser across
 
 ##### iPhone 7 Plus
 
-
-![safari-iphone-7-plus](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e18408f6-8a1a-481f-92bb-8176523e4993)
-
+<div align="center">
+  <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/e18408f6-8a1a-481f-92bb-8176523e4993" alt="safari-iphone-7-plus" width="400px" height="600px">
+</div>
 
 
 ### Manual Testing
@@ -323,9 +326,17 @@ View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx8
 
 
 ### Accessibility
+#### Accessibility Audits
 
-![Screenshot 2023-06-12 at 05 13 07](https://github.com/AmeenNoor/activeLife-center/assets/19653847/0b1a4df4-64a2-4a37-975f-0eb6dc4414c8)
+Accessibility testing was done on the website, and Lighthouse, a testing tool, was used for this purpose. The Lighthouse report, displayed in the provided screenshot, indicates a successful outcome of the accessibility testing.
 
+![accessibility-test](https://github.com/AmeenNoor/activeLife-center/assets/19653847/3201e8b8-1c0e-4344-aaee-36209a55caf2)
+
+
+
+#### Keyboard Navigation
+
+#### Chrome Vox Reader
 
 ### Fixing Bugs
 
@@ -369,7 +380,11 @@ MacBook Pro 13":
 
 iPhone 7 Plus:
 
-![bug-fixed-iPhone](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c4522546-5750-4406-8b63-06ff9fc6beeb)
+
+<div align="center">
+  <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/c4522546-5750-4406-8b63-06ff9fc6beeb" alt="bug-fixed-iPhone" width="400px" height="600px">
+</div>
+
 
 
 ## Credits
