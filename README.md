@@ -379,6 +379,17 @@ iPhone 7 Plus:
 ### Content
 ???????????
 ### Media
-???????????
+- Fitness Image
+- Yoga Image
+- Jiu Jitsu Image
+- Thai Boxing Image
+- Salsa dance Image
+- Capoeira Image
+- Zumba Image
+- Colors Image => coolors.co
+- Social Media Icons => fontawesome.com
+- Responsive Image => Am I Responsive
+- Google Map
+
 ### Acknowledgements
 ?????????????
