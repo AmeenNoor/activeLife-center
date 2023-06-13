@@ -330,15 +330,31 @@ View manual testing results [here!](https://docs.google.com/spreadsheets/d/16gx8
 ### Fixing Bugs
 
 #### Validation Bug
-Home Page:
-The bug in the code was related to a warning raised by the HTML validator. The warning indicated that a section lacked a heading, and suggested using heading elements (<h2> to <h6>) or using a <div> instead. To fix the bug, the <section> tag was replaced with a <div> tag in the "FITNESS IMAGE SECTION" part of the code.  
-  
-![bug-fixed-home-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/7ff70522-ef44-4323-bc85-dafb078c8a12)
-  
-Bookclass Page:
-The bug was caused by incomplete and empty <option> elements within the <select> tags in the HTML code. The issue was resolved by adding the disabled and selected attributes to the first <option> element in each <select> tag. 
 
-![bug-fixed-bookclass-page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e72bc925-45b3-4f9e-a3e0-6cce41b0acff)
+Home Page:
+
+The bug in the code was related to a warning raised by the HTML validator. The warning indicated that a section lacked a heading, and suggested using heading elements `<h2>` to `<h6>` or using a `<div>` instead. To fix the bug, the `<section>` tag was replaced with a `<div>` tag in the "FITNESS IMAGE SECTION" part of the code.
+
+![Bug Fixed Home Page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/7ff70522-ef44-4323-bc85-dafb078c8a12)
+
+Bookclass Page:
+
+The bug was caused by incomplete and empty `<option>` elements within the `<select>` tags in the HTML code. The issue was resolved by adding the `disabled` and `selected` attributes to the first `<option>` element in each `<select>` tag.
+
+![Bug Fixed Bookclass Page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/e72bc925-45b3-4f9e-a3e0-6cce41b0acff)
+
+Thankyou Page:
+
+The bug in the code was related to a warning raised by the HTML validator. The warning indicated that a section lacked a heading, and suggested using heading elements `<h2>` to `<h6>` or using a `<div>` instead. To fix the bug, the `<section>` tag was replaced with a `<div>` tag in the "THANK YOU MESSAGE SECTION" part of the code.
+
+![Bug Fixed Thankyou Page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/5f96f373-fd30-4297-b8ac-401d446a201c)
+
+404 Page:
+
+The bug in the code was related to a warning raised by the HTML validator. The warning indicated that a section lacked a heading, and suggested using heading elements `<h2>` to `<h6>` or using a `<div>` instead. To fix the bug, the `<section>` tag was replaced with a `<div>` tag in the "404 WARNING MESSAGE SECTION" part of the code.
+
+![Bug Fixed 404 Page](https://github.com/AmeenNoor/activeLife-center/assets/19653847/267edb3d-e7ee-453f-b55b-3ca6ac3a9ff4)
+
 
 
 
