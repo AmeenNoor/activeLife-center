@@ -375,9 +375,12 @@ iPhone 7 Plus:
 ## Credits
 
 ### Code
-???????????
+- Code Institute Student Template
+- Code Institute "Love Running" Project
+- [!Creating a 404 page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+- [!Readme guide](https://github.com/maliahavlicek/ci_mentor_insights/blob/main/PORTFOLIO_1_CSS_HTML_ESSENTIALS.md)
 ### Content
-???????????
+Some of the contents from [!Swan Leisure](https://www.swanleisure.ie/)
 ### Media
 - Fitness Image
 - Yoga Image
@@ -390,6 +393,7 @@ iPhone 7 Plus:
 - Social Media Icons => fontawesome.com
 - Responsive Image => Am I Responsive
 - Google Map
+- Google Font
 
 ### Acknowledgements
-?????????????
+Mentor 
