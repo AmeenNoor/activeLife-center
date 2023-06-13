@@ -55,7 +55,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Code](#code)
     - [Content](#content)
     - [Media](#media)
-    - [Acknowledgements](#acknowledgements)
+    - [Mentor](#mentor)
 
 ## Project Goal
 
@@ -409,5 +409,6 @@ iPhone 7 Plus:
 
 - The responsive image is generated using the [Am I Responsive](https://ui.dev/amiresponsive) tool.
 
-### Acknowledgements
-Mentor 
+### Mentor
+
+Huge thanks to my mentor "Malia Havlicek" for her support and guidance. 
