@@ -375,12 +375,20 @@ iPhone 7 Plus:
 ## Credits
 
 ### Code
-- Code Institute Student Template
-- Code Institute "Love Running" Project
-- [!Creating a 404 page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
-- [!Readme guide](https://github.com/maliahavlicek/ci_mentor_insights/blob/main/PORTFOLIO_1_CSS_HTML_ESSENTIALS.md)
+
+- The GitHub repository was created using the "Code Institute template." You can find the template at: [Code Institute Template](https://github.com/Code-Institute-Org/ci-full-template).
+
+- The logo, navigation menu, and footer section have been adopted from the "love-running" project. You can view the project at: [Love Running](https://ameennoor.github.io/love-running/).
+
+- The classes display utilizes the concept of Flexbox, which was adopted from the W3Schools CSS Flexbox tutorial. You can learn more about Flexbox here: [W3Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp).
+
 ### Content
-Some of the contents from [!Swan Leisure](https://www.swanleisure.ie/)
+- The membership section on the home page has been rephrased and adapted from Swan Leisure's website. You can find their website at: [Swan Leisure](https://www.swanleisure.ie/).
+
+- The content on the classes page has been rephrased and adopted from "Blue Nile Life Style." You can find more information about them on their Facebook page: [Blue Nile Life Style](https://www.facebook.com/BlueFitness82/).
+
+- The 404 Error message has been adopted from an article titled "20 Best Free 404 Error Page Templates 2023" by Aigars Silkalns, published on January 7, 2023. You can read the article here: [20 Best Free 404 Error Page Templates 2023](https://colorlib.com/wp/free-404-error-page-templates/).
+
 ### Media
 - Fitness Image
 - Yoga Image
@@ -388,7 +396,7 @@ Some of the contents from [!Swan Leisure](https://www.swanleisure.ie/)
 - Thai Boxing Image
 - Salsa dance Image
 - Capoeira Image
-- Zumba Image
+- Zumba Image => (https://www.freepik.com/)
 - Colors Image => coolors.co
 - Social Media Icons => fontawesome.com
 - Responsive Image => Am I Responsive
