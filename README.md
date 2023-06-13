@@ -360,7 +360,7 @@ The bug in the code was related to a warning raised by the HTML validator. The w
 
 #### Safari Bug
 
-The bug was, during the testing phase, an issue was identified where a portion of the navigation menu appeared to float down on these devices. As a temporary solution, the bug was fixed by removing the "Us" portion from the "Contact Us" section.
+The bug was; during the testing phase, an issue was identified where a portion of the navigation menu appeared to float down on these devices. As a temporary solution, the bug was fixed by removing the "Us" portion from the "Contact Us" section.
 
 MacBook Pro 13":
 
