@@ -34,7 +34,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
       - [Tablet](#tablet)
       - [Mobile](#mobile)
   - [Features](#features)
-    - [Existing Features](#existing-features)
+    - [Implemented Features](#implemented-features)
     - [Future Features](#future-features)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -43,9 +43,9 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
   - [Testing](#testing)
     - [Testing User Stories](#testing-user-stories)
     - [Validation Testing](#validation-testing)
-      - [HTML](#html)
-      - [CSS](#css)
-    - [Browser and Device Testing](#browser-and-device-testing)
+      - [HTML Validation](#html-validation)
+      - [CSS Validation](#css-validation)
+    - [Compatibility and Responsive Testing](#compatibility-and-responsive-testing)
     - [Manual Testing](#manual-testing)
     - [Accessibility](#accessibility)
     - [Fixing Bugs](#fixing-bugs)
@@ -110,7 +110,7 @@ The 'Rye' font was chosen for its decorative and stylish appearance, adding visu
 
 
 ## Features
-### Existing Features
+### Implemented Features
 
 1. Navigation Bar: The website includes a navigation bar at the top, allowing users to easily navigate between different sections such as "Contact Us," "Classes," and "Home."
 
@@ -239,7 +239,7 @@ By clicking on the social media icons, including Facebook, Instagram, YouTube, T
 ### Validation Testing
 The code of the website was tested using the HTML & CSS Validator provided by The World Wide Web Consortium (W3C).  The test results indicated that some of the HTML pages produced warning errors, while others passed without any errors. See screenshots below:
 
-#### HTML
+#### HTML Validation
 
 - Home page:
 
@@ -273,11 +273,11 @@ The code of the website was tested using the HTML & CSS Validator provided by Th
 
 
 
-#### CSS
+#### CSS Validation
 
 ![Screenshot 2023-06-11 at 17 25 57](https://github.com/AmeenNoor/activeLife-center/assets/19653847/94196dde-e41d-4b3e-aac3-613c77238799)
 
-### Browser and Device Testing
+### Compatibility and Responsive Testing
 
 
 The website was tested on various browsers and devices to ensure compatibility and optimal user experience. The testing process yielded successful results for most browsers and devices, except for Safari browser. In Safari, it was observed that the navigation menu was not displayed as expected. See table and screenshots below:
