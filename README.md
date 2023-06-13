@@ -390,18 +390,24 @@ iPhone 7 Plus:
 - The 404 Error message has been adopted from an article titled "20 Best Free 404 Error Page Templates 2023" by Aigars Silkalns, published on January 7, 2023. You can read the article here: [20 Best Free 404 Error Page Templates 2023](https://colorlib.com/wp/free-404-error-page-templates/).
 
 ### Media
-- Fitness Image
-- Yoga Image
-- Jiu Jitsu Image
-- Thai Boxing Image
-- Salsa dance Image
-- Capoeira Image
-- Zumba Image => (https://www.freepik.com/)
-- Colors Image => coolors.co
-- Social Media Icons => fontawesome.com
-- Responsive Image => Am I Responsive
-- Google Map
-- Google Font
+
+- The fitness image on the home page is sourced from [Pikwizard](https://pikwizard.com/).
+
+- The yoga, Zumba, and salsa dance images on the classes page are sourced from [Freepik](https://www.freepik.com/).
+
+- The Jiu Jitsu and Thai Boxing images on the classes page are sourced from [Unsplash](https://unsplash.com/).
+
+- The Capoeira image on the classes page is sourced from [PxHere](https://pxhere.com/).
+
+- The embedded map on the contact page is sourced from Google Maps.
+
+- The color scheme image is sourced from [Coolors](https://coolors.co/).
+
+- The social media icons are sourced from [FontAwesome](https://fontawesome.com/).
+
+- The fonts 'Rye' and 'Nanum Myeongjo' are sourced from [Google Fonts](https://fonts.google.com/).
+
+- The responsive image is generated using the [Am I Responsive](https://ui.dev/amiresponsive) tool.
 
 ### Acknowledgements
 Mentor 
