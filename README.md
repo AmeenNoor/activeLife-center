@@ -23,7 +23,6 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [User Experience (UX)](#user-experience-ux)
-    - [Project Goal](#project-goal)
     - [User storis](#user-storis)
     - [Design](#design)
       - [Colors](#colors)
@@ -54,13 +53,13 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Fixing Bugs](#fixing-bugs)
       - [Validation Bug](#validation-bugs)
       - [Safari Bug](#safari-bug)
+    - [Open Bugs](#open-Bugs)
   - [Credits](#credits)
     - [Code](#code)
     - [Content](#content)
     - [Media](#media)
     - [Mentor](#mentor)
 
-## Project Goal
 
 ## User Experience (UX)
 
@@ -168,7 +167,9 @@ The 'Rye' font was chosen for its decorative and stylish appearance, adding visu
 
 ### Future Features
 
-????????
+1. Testimonial Page: Create a dedicated page where users can view ratings, reviews, and feedback from current and past members. This will help users compare the ActiveBeat Center to other fitness centers and make decisions.
+
+2. FAQ Page: Create a Frequently Asked Questions (FAQ) page that addresses common inquiries about membership, facilities, classes, trainers, and any other relevant topics. This will provide users with quick and easy access to essential information.
 
 ## Technologies Used
 
@@ -395,6 +396,9 @@ iPhone 7 Plus:
 </div>
 
 
+### Open Bugs
+
+An open bug refers to a Safari bug that was identified during the testing phase. The bug causes a portion of the navigation menu to appear floating down on certain devices. As a temporary solution, the bug was addressed by removing the "Us" portion from the "Contact Us" section. However, it is important to note that this is only a temporary fix, and the bug should be resolved in a proper and more permanent manner in the future.
 
 ## Credits
 
