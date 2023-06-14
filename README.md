@@ -50,7 +50,7 @@ Click [here](https://ameennoor.github.io/activeLife-center/) to visit the websit
     - [Accessibility](#accessibility)
       - [Accessibility Audits](#accessibility-audits)
       - [Keyboard Navigation](#keyboard-navigation)
-      - [Chrome Vox Reader](#chrome-vox-reader)
+      - [Screen Reader Testing](#screen-reader-testing)
     - [Fixing Bugs](#fixing-bugs)
       - [Validation Bug](#validation-bugs)
       - [Safari Bug](#safari-bug)
@@ -336,7 +336,16 @@ Accessibility testing was done on the website, and Lighthouse, a testing tool, w
 
 #### Keyboard Navigation
 
-#### Chrome Vox Reader
+Keyboard Navigation testing was conduced on the website. keyboard was used for navigation and interaction, without relying on a mouse. The purpose of this testing was to ensure that all elements and features of the website could be accessed and operated through keyboard inputs. See image below:
+
+
+![keyboard-navigation](https://github.com/AmeenNoor/activeLife-center/assets/19653847/be486dca-a240-430b-b43d-2313dce88bd7)
+
+
+
+#### Screen Reader Testing
+
+Screen Reader testing was done on the website, and ChromeVox extension in Google Chrome and VoiceOver on Mac were used for this purpose. Both screen readers were successfully able to read the content displayed on the screen.
 
 ### Fixing Bugs
 
