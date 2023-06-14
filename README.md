@@ -163,8 +163,14 @@ The 'Rye' font was chosen for its decorative and stylish appearance, adding visu
 ![Screenshot 2023-06-09 at 04 28 36](https://github.com/AmeenNoor/activeLife-center/assets/19653847/c58ca4d1-b553-49bc-b129-8eaa84e84be9)
 
 
+6. Thank You page: The website includes a Thank You page that display after users fill out a form. This page confirms the successful submission of the form and displays a message informing users that a team member will be contacting them soon.
 
-6. 404 page: The 404.html page effectively communicates the error of a requested page not found. It displays a warning message to inform the user about the issue and provides a clear button that links to the home page as a solution. This approach helps maintain a positive user experience by guiding users back to the main page and minimizing frustration.
+
+
+![thankyou-message](https://github.com/AmeenNoor/activeLife-center/assets/19653847/175c1b9a-dcc5-49c3-ba22-e6305d5fd4ec)
+
+
+7. 404 page: The 404.html page effectively communicates the error of a requested page not found. It displays a warning message to inform the user about the issue and provides a clear button that links to the home page as a solution. This approach helps maintain a positive user experience by guiding users back to the main page and minimizing frustration.
 
 
 
