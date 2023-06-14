@@ -92,9 +92,19 @@ The website's color scheme uses soft and warm tones that make people feel calm a
 
 Images are chosen for the website's home and classes pages to enhance visual appeal and convey information. fitness image in the header section represents the core theme of the website, showcasing a visually appealing depiction of fitness and exercise. This image helps to immediately convey the purpose and focus of the fitness center. On the classes page, each class is represented by an image that reflects its nature and atmosphere. For example, yoga is depicted with a peaceful image, while martial arts classes have action-oriented images. The images aim to attract visitors, evoke emotions, and provide a preview of the classes offered.
 
+
+
 #### Typography
 
 The 'Rye' font was chosen for its decorative and stylish appearance, adding visual interest to specific elements. 'Nanum Myeongjo' was selected for its readability and versatility, ensuring clear and legible body text. The font choices aim to balance aesthetics and usability, aligning with the website's design goals and target audience.
+
+
+<div align="center">
+  <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/70e02090-847e-4d60-bbdc-653e96d1efda" alt="rye-font">
+  <img src="https://github.com/AmeenNoor/activeLife-center/assets/19653847/b744b425-ff2e-4824-97ab-2f60627eafcc" alt="nanum-myeongjo-font">
+</div>
+
+
 
 ### Wireframes
 
